@@ -183,6 +183,7 @@ In current literature, zero-shot and open-vocabulary are used interchangeably, h
 |CVPR'24|[YOLO-World](https://www.yoloworld.cc/)|Real-Time Open-Vocabulary Object Detection|[Code](https://github.com/AILab-CVC/YOLO-World)|
 |MM'23|[SGDN](http://arxiv.org/abs/2307.03339)|Open-Vocabulary Object Detection via Scene Graph Discovery|N/A|
 |CVPR'24|[USE](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_USE_Universal_Segment_Embeddings_for_Open-Vocabulary_Image_Segmentation_CVPR_2024_paper.html)|USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation|N/A|
+|ICLR'25|[CCKT-Det](https://openreview.net/pdf?id=JU9oHs7ivN)|Cyclic Contrastive Knowledge Transfer for Open-Vocabulary Object Detection|[Code](https://github.com/ZCHUHan/CCKT-Det)|
 
 <a id="ovd-pl"></a>
 ### Pseudo-Labeling
