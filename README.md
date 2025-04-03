@@ -246,6 +246,7 @@ Understanding
 |ICCV'23|[OpenSeed](https://arxiv.org/abs/2303.08131)|A Simple Framework for Open-Vocabulary Segmentation and Detection|[Code](https://github.com/IDEA-Research/OpenSeeD)|
 |arXiv'23|[DRR](https://arxiv.org/abs/2309.00227)|What Makes Good Open-Vocabulary Detector: A Disassembling Perspective|N/A|
 |arXiv'23|[Sambor](https://arxiv.org/abs/2312.03628)|Boosting Segment Anything Model Towards Open-Vocabulary Learning|[Code](https://github.com/ucas-vg/Sambor)|
+|AAAI'25|[LAE-DINO](https://arxiv.org/abs/2408.09110)|Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community|[Code](https://github.com/jaychempan/LAE-DINO)|
 
 <a id="ovs"></a>
 ## Open-Vocabulary Segmentation
